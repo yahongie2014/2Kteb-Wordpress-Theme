@@ -1,0 +1,79 @@
+@font-face {
+	  font-family: "header-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Bd.ttf");
+	}
+	@font-face {
+	  font-family: "body-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Reg.ttf");
+	}
+	@font-face {
+	  font-family: "lists-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Reg.ttf");
+	}h1, h2, h3, h4, h5, h6, h7	{
+	font-family: "header-font"!important;
+	}p, em, div	{
+		font-family: "body-font"!important;
+	}
+	li	{
+		font-family: "lists-font"!important;
+	}
+
+@font-face {
+	  font-family: "header-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Bd.eot");
+	}
+	@font-face {
+	  font-family: "body-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Reg.eot");
+	}
+	@font-face {
+	  font-family: "lists-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Reg.eot");
+	}h1, h2, h3, h4, h5, h6, h7	{
+	font-family: "header-font"!important;
+	}p, em, div	{
+		font-family: "body-font"!important;
+	}
+	li	{
+		font-family: "lists-font"!important;
+	}		
+
+@font-face {
+	  font-family: "header-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Bd.woff");
+	}
+	@font-face {
+	  font-family: "body-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Reg.woff");
+	}
+	@font-face {
+	  font-family: "lists-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Reg.woff");
+	}h1, h2, h3, h4, h5, h6, h7	{
+	font-family: "header-font"!important;
+	}p, em, div	{
+		font-family: "body-font"!important;
+	}
+	li	{
+		font-family: "lists-font"!important;
+	}		
+
+@font-face {
+	  font-family: "header-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Bd.svg");
+	}
+	@font-face {
+	  font-family: "body-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Reg.svg");
+	}
+	@font-face {
+	  font-family: "lists-font";
+	  src: url("http://2kteb.com/font/HelveticaNeueW23forSKY-Reg.svg");
+	}h1, h2, h3, h4, h5, h6, h7	{
+	font-family: "header-font"!important;
+	}p, em, div	{
+		font-family: "body-font"!important;
+	}
+	li	{
+		font-family: "lists-font"!important;
+	}		
